@@ -3,3 +3,4 @@ This Repository contains examples using Spark Java - A micro framework for creat
 
 #Using Git Aliases
 Learning about git aliases.
+Testing git aliases using normal way.
